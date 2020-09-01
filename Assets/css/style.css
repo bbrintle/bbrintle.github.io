@@ -1,0 +1,40 @@
+body {
+    background-color: #f0f0f0;
+    background-image: url("https://www.transparenttextures.com/patterns/always-grey.png");
+    background-size: auto;
+    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+header h1 {
+    margin: .5rem;
+}
+
+.taller-row{
+    margin: 35px;
+}
+
+.margin-left {
+    margin-left: 35px;
+}
+
+.margin-right {
+    margin-right: 25px;
+}
+
+.add-padding {
+    padding-top: 10;
+    padding-bottom: 10;
+}
+
+.adjSize {
+    width: 100%;
+}
+
+@media (min-width: 0px) and (max-width: 991px) {
+    .bigscreen { display: none; }
+}
+
+@media (min-width: 992px) {
+    .medscreen { display: none; }
+}
+
