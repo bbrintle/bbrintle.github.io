@@ -30,6 +30,15 @@ header h1 {
     width: 100%;
 }
 
+.centered{
+    display: flex;
+    justify-content: center;
+}
+
+.add-margin{
+    margin-left: 15px;
+}
+
 @media (min-width: 0px) and (max-width: 991px) {
     .bigscreen { display: none; }
 }
