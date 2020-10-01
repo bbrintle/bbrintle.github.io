@@ -1,6 +1,6 @@
-# Responive Portfolio (Homework - 2)
+# Blake Brintle's Portfolio
 
-* root folder contains:
+Root folder contains:
 
 * README.md      (Read Me File)
 * index.html     (About Me Page)
